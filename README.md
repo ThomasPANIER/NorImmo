@@ -34,4 +34,4 @@ Ce projet a été réalisé dans le cadre de notre formation developpeur web et 
 - BatisteBlactot20031998 
 - ThomasPANIER 
 
-Nous avons ajouté ce site sur une GHPage [ici](https://charlene76140.github.io/norImmo/).
+Nous avons ajouté ce site sur une GHPage [ici](https://thomaspanier.github.io/NorImmo/).
