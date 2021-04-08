@@ -1,0 +1,66 @@
+/*-------------------General rules---------------*/
+
+/*by default answers are hidden*/
+.answerHidden{
+    display: none;
+}
+/*-------------------Mobile Version---------------*/
+.sizeArticle{
+    margin: 10% 0
+}
+
+.sizeLi{
+    padding: 5%;
+    margin-bottom: 0.5%;
+}
+
+.sizeAnswer{
+    margin-bottom: 3%;
+}
+
+.colorQuestion{
+    background-color: #7e998a;
+    color: white;
+}
+
+
+/*-------------------Ipad Version------------------*/
+@media screen and (min-width: 768px){
+    .sizeSectionIpadAndComputer{
+        width : 75%;
+        margin: auto;
+    }
+   
+
+    hr{
+        margin: 3em 0 0 0;
+    }
+}
+/*-------------------Desktop Version------------------*/
+@media screen and (min-width: 1024px){
+    .sizeSectionIpadAndComputer{
+        width : 60%;
+        margin: auto;
+    }
+
+    .sizeArticle{
+        margin: 6% 0
+    }
+
+    .sizeAnswer{
+        margin-bottom: 2%;
+    }
+
+    p{
+        font-size: 1.1em;
+    }
+
+    .sizeLi{
+        padding: 2%;
+        font-size: 1.1em;
+    }
+   
+    .sizeDiv{
+        margin-bottom: 0.7%;
+    }
+}

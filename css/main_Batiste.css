@@ -1,0 +1,27 @@
+/* CSS Simulation page */
+
+.buttonSimulation{
+  background: #85877c;
+  cursor: pointer;
+  width: 50%;
+  margin: auto;
+}
+
+.resultSimulator{
+  background: #7e998a;
+  width: 50%;
+  margin: auto;
+  height: 50px;
+}
+
+.test{
+  margin: 5% 0;
+}
+
+.title{
+  margin-bottom: 5%;
+}
+
+.resultPrice{
+  padding-top: 13px;
+}

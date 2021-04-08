@@ -1,0 +1,28 @@
+hr {
+    width: 70%;    
+    margin: 5% auto 5% auto;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 4%;
+}
+ 
+.sizeDiv1{
+    width: 75%;
+    margin: auto; 
+}
+ 
+.sizeDiv2{
+    display: flex;
+    justify-content: center;
+ 
+}
+
+p {
+    text-align: justify;
+    width: 75%;
+    margin: auto auto 5% auto ;
+}
